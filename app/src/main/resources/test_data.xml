@@ -1,0 +1,961 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns="http://ns.fredhopper.com/XML/output/6.1.0" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <soapenv:Body>
+        <page qid="22">
+            <universes>
+                <universe name="defaultcategory2" type="selected">
+                    <items-section>
+                        <results view_size="10" view_set_size="5" total_items="11570" start_index="0" view_size_param="fh_view_size" start_index_param="fh_start_index" current_set="1">
+                            <url-params>fh_view_size=10&amp;preview_seo=false&amp;fh_refpath=206093f9-6376-490b-a39b-0adb9709e3df&amp;preview_advanced=true&amp;fh_refview=lister&amp;fh_reffacet=categories&amp;fh_location=%2f%2fdefaultcategory2%2fen_GB%2fcategories%3c%7bdefaultcategory2_latestproducts5%7d&amp;fh_sort=sale_type%2c-news_from_date%2cbrand%2csleeve_length%2cdepartment%2c-price_gbp%2cname%2c-stock_total</url-params>
+                            <ranking>
+                                <id>8923a720-7ec3-4f3c-8c63-1c2fb53170dd</id>
+                                <sort-fields>
+                                    <sort-field>
+                                        <sort-direction>ASC</sort-direction>
+                                        <sort-attribute>sale_type</sort-attribute>
+                                    </sort-field>
+                                    <sort-field>
+                                        <sort-direction>DESC</sort-direction>
+                                        <sort-attribute>news_from_date</sort-attribute>
+                                    </sort-field>
+                                    <sort-field>
+                                        <sort-direction>ASC</sort-direction>
+                                        <sort-attribute>brand</sort-attribute>
+                                    </sort-field>
+                                    <sort-field>
+                                        <sort-direction>ASC</sort-direction>
+                                        <sort-attribute>sleeve_length</sort-attribute>
+                                    </sort-field>
+                                    <sort-field>
+                                        <sort-direction>ASC</sort-direction>
+                                        <sort-attribute>department</sort-attribute>
+                                    </sort-field>
+                                    <sort-field>
+                                        <sort-direction>DESC</sort-direction>
+                                        <sort-attribute>price_gbp</sort-attribute>
+                                    </sort-field>
+                                    <sort-field>
+                                        <sort-direction>ASC</sort-direction>
+                                        <sort-attribute>name</sort-attribute>
+                                    </sort-field>
+                                    <sort-field>
+                                        <sort-direction>DESC</sort-direction>
+                                        <sort-attribute>stock_total</sort-attribute>
+                                    </sort-field>
+                                </sort-fields>
+                            </ranking>
+                        </results>
+                        <items>
+                            <item id="cozaa_h12119_aab">
+                                <attribute isnull="false" name="name" basetype="text">
+                                    <value non-ml="A.P.C. Casual Shirt">A.P.C. Casual Shirt</value>
+                                </attribute>
+                                <attribute isnull="false" name="sku" basetype="text">
+                                    <value non-ml="COZAA-H12119-AAB">COZAA-H12119-AAB</value>
+                                </attribute>
+                                <attribute isnull="false" name="news_from_date" basetype="text">
+                                    <value non-ml="2017-02-21 00:00:00">2017-02-21 00:00:00</value>
+                                </attribute>
+                                <attribute isnull="false" name="price_gbp" basetype="float">
+                                    <value non-ml="135.0">135.0</value>
+                                </attribute>
+                                <attribute isnull="false" name="sale_type" basetype="text">
+                                    <value non-ml="Not on sale">Not on sale</value>
+                                </attribute>
+                                <attribute isnull="false" name="total_stock" basetype="int">
+                                    <value non-ml="9">9</value>
+                                </attribute>
+                                <attribute isnull="false" name="colour" basetype="list">
+                                    <value non-ml="colour256">White</value>
+                                </attribute>
+                                <attribute isnull="false" name="stock_ratio" basetype="float">
+                                    <value non-ml="1.0">1.0</value>
+                                </attribute>
+                                <attribute isnull="false" name="sleeve_length" basetype="list">
+                                    <value non-ml="sleeve_length396963">Long sleeve</value>
+                                </attribute>
+                                <attribute isnull="false" name="magento_id" basetype="int">
+                                    <value non-ml="339241">339241</value>
+                                </attribute>
+                                <attribute name="_thumburl" basetype="asset" isnull="false">
+                                    <value>http://media.endclothing.com/media/catalog/product/cache/0/thumbnail/400x/9df78eab33525d08d6e5fb8d27136e95/2/0/20-02-2016_apc_casualshirt_white_cj_1.jpg</value>
+                                </attribute>
+                                <attribute name="small_image" basetype="asset" isnull="false">
+                                    <value>/2/0/20-02-2016_apc_casualshirt_white_cj_1.jpg</value>
+                                </attribute>
+                                <attribute name="stock" basetype="int" isnull="false" selected="false">
+                                    <value non-ml="1">1</value>
+                                    <value non-ml="2">2</value>
+                                    <value non-ml="3">3</value>
+                                </attribute>
+                                <attribute isnull="false" name="stock" basetype="int">
+                                    <value non-ml="1">1</value>
+                                </attribute>
+                                <attribute name="secondid" basetype="text" isnull="false">
+                                    <value non-ml="cozaa_h12119_aab">cozaa_h12119_aab</value>
+                                </attribute>
+                                <attribute name="url_key" basetype="asset" isnull="false">
+                                    <value>a-p-c-casual-shirt-cozaa-h12119-aab</value>
+                                </attribute>
+                                <attribute isnull="false" name="actual_colour" basetype="text">
+                                    <value non-ml="White">White</value>
+                                </attribute>
+                                <attribute isnull="false" name="department" basetype="list">
+                                    <value non-ml="department266877">Shirts</value>
+                                </attribute>
+                                <attribute name="model_crop_image" basetype="asset" isnull="false">
+                                    <value>/2/2/22-12-2016_apc_casualshirt_white_cozaa-h12119-aab_mg_m1.jpg</value>
+                                </attribute>
+                                <attribute name="model_full_image" basetype="asset" isnull="false">
+                                    <value>/2/2/22-12-2016_apc_casualshirt_white_cozaa-h12119-aab_mg_m3.jpg</value>
+                                </attribute>
+                                <attribute isnull="false" name="rc_price_stock" basetype="float">
+                                    <value non-ml="70.9482">70.9482</value>
+                                </attribute>
+                                <attribute name="mobile_large_image" basetype="asset" isnull="false">
+                                    <value>http://media.endclothing.com/media/catalog/product/cache/0/image/1000x/9df78eab33525d08d6e5fb8d27136e95/2/0/20-02-2016_apc_casualshirt_white_cj_1.jpg</value>
+                                </attribute>
+                                <attribute name="mobile_small_image" basetype="asset" isnull="false">
+                                    <value>http://media.endclothing.com/media/catalog/product/cache/0/thumbnail/400x/9df78eab33525d08d6e5fb8d27136e95/2/0/20-02-2016_apc_casualshirt_white_cj_1.jpg</value>
+                                </attribute>
+                                <attribute name="mobile_model_crop_image" basetype="asset" isnull="false">
+                                    <value>http://media.endclothing.com/media/catalog/product/cache/0/model_crop_image/400x/9df78eab33525d08d6e5fb8d27136e95/2/2/22-12-2016_apc_casualshirt_white_cozaa-h12119-aab_mg_m1.jpg</value>
+                                </attribute>
+                                <attribute name="mobile_model_full_image" basetype="asset" isnull="false">
+                                    <value>http://media.endclothing.com/media/catalog/product/cache/0/model_full_image/400x/9df78eab33525d08d6e5fb8d27136e95/2/2/22-12-2016_apc_casualshirt_white_cozaa-h12119-aab_mg_m3.jpg</value>
+                                </attribute>
+                                <link type="detail">
+                                    <name>Detail</name>
+                                    <url-params>fh_view_size=10&amp;preview_seo=false&amp;preview_advanced=true&amp;fh_location=%2f%2fdefaultcategory2%2fen_GB%2fcategories%3c%7bdefaultcategory2_latestproducts5%7d&amp;fh_sort=sale_type%2c-news_from_date%2cbrand%2csleeve_length%2cdepartment%2c-price_gbp%2cname%2c-stock_total&amp;fh_refview=lister&amp;fh_secondid=cozaa_h12119_aab&amp;fh_lister_pos=0&amp;fh_modification=</url-params>
+                                </link>
+                            </item>
+                            <item id="cozaa_h12119_iab">
+                                <attribute isnull="false" name="name" basetype="text">
+                                    <value non-ml="A.P.C. Casual Shirt">A.P.C. Casual Shirt</value>
+                                </attribute>
+                                <attribute isnull="false" name="sku" basetype="text">
+                                    <value non-ml="COZAA-H12119-IAB">COZAA-H12119-IAB</value>
+                                </attribute>
+                                <attribute isnull="false" name="news_from_date" basetype="text">
+                                    <value non-ml="2017-02-21 00:00:00">2017-02-21 00:00:00</value>
+                                </attribute>
+                                <attribute isnull="false" name="price_gbp" basetype="float">
+                                    <value non-ml="135.0">135.0</value>
+                                </attribute>
+                                <attribute isnull="false" name="sale_type" basetype="text">
+                                    <value non-ml="Not on sale">Not on sale</value>
+                                </attribute>
+                                <attribute isnull="false" name="total_stock" basetype="int">
+                                    <value non-ml="8">8</value>
+                                </attribute>
+                                <attribute isnull="false" name="colour" basetype="list">
+                                    <value non-ml="colour259">Blue</value>
+                                </attribute>
+                                <attribute isnull="false" name="stock_ratio" basetype="float">
+                                    <value non-ml="1.0">1.0</value>
+                                </attribute>
+                                <attribute isnull="false" name="sleeve_length" basetype="list">
+                                    <value non-ml="sleeve_length396963">Long sleeve</value>
+                                </attribute>
+                                <attribute isnull="false" name="magento_id" basetype="int">
+                                    <value non-ml="339242">339242</value>
+                                </attribute>
+                                <attribute name="_thumburl" basetype="asset" isnull="false">
+                                    <value>http://media.endclothing.com/media/catalog/product/cache/0/thumbnail/400x/9df78eab33525d08d6e5fb8d27136e95/1/9/19-02-2016_a.p.c._casualshirt_blue_ra_01_1.jpg</value>
+                                </attribute>
+                                <attribute name="small_image" basetype="asset" isnull="false">
+                                    <value>/1/9/19-02-2016_a.p.c._casualshirt_blue_ra_01_1.jpg</value>
+                                </attribute>
+                                <attribute name="stock" basetype="int" isnull="false" selected="false">
+                                    <value non-ml="1">1</value>
+                                    <value non-ml="2">2</value>
+                                    <value non-ml="3">3</value>
+                                </attribute>
+                                <attribute isnull="false" name="stock" basetype="int">
+                                    <value non-ml="1">1</value>
+                                </attribute>
+                                <attribute name="secondid" basetype="text" isnull="false">
+                                    <value non-ml="cozaa_h12119_iab">cozaa_h12119_iab</value>
+                                </attribute>
+                                <attribute name="url_key" basetype="asset" isnull="false">
+                                    <value>a-p-c-casual-shirt-cozaa-h12119-iab</value>
+                                </attribute>
+                                <attribute isnull="false" name="actual_colour" basetype="text">
+                                    <value non-ml="Blue">Blue</value>
+                                </attribute>
+                                <attribute isnull="false" name="department" basetype="list">
+                                    <value non-ml="department266877">Shirts</value>
+                                </attribute>
+                                <attribute name="model_crop_image" basetype="asset" isnull="false">
+                                    <value>/2/2/22-12-2016_apc_casualshirt_blue_cozaa-h12119-iab_mg_m1.jpg</value>
+                                </attribute>
+                                <attribute name="model_full_image" basetype="asset" isnull="false">
+                                    <value>/2/2/22-12-2016_apc_casualshirt_blue_cozaa-h12119-iab_mg_m3.jpg</value>
+                                </attribute>
+                                <attribute isnull="false" name="rc_price_stock" basetype="float">
+                                    <value non-ml="70.9482">70.9482</value>
+                                </attribute>
+                                <attribute name="mobile_large_image" basetype="asset" isnull="false">
+                                    <value>http://media.endclothing.com/media/catalog/product/cache/0/image/1000x/9df78eab33525d08d6e5fb8d27136e95/1/9/19-02-2016_a.p.c._casualshirt_blue_ra_01_1.jpg</value>
+                                </attribute>
+                                <attribute name="mobile_small_image" basetype="asset" isnull="false">
+                                    <value>http://media.endclothing.com/media/catalog/product/cache/0/thumbnail/400x/9df78eab33525d08d6e5fb8d27136e95/1/9/19-02-2016_a.p.c._casualshirt_blue_ra_01_1.jpg</value>
+                                </attribute>
+                                <attribute name="mobile_model_crop_image" basetype="asset" isnull="false">
+                                    <value>http://media.endclothing.com/media/catalog/product/cache/0/model_crop_image/400x/9df78eab33525d08d6e5fb8d27136e95/2/2/22-12-2016_apc_casualshirt_blue_cozaa-h12119-iab_mg_m1.jpg</value>
+                                </attribute>
+                                <attribute name="mobile_model_full_image" basetype="asset" isnull="false">
+                                    <value>http://media.endclothing.com/media/catalog/product/cache/0/model_full_image/400x/9df78eab33525d08d6e5fb8d27136e95/2/2/22-12-2016_apc_casualshirt_blue_cozaa-h12119-iab_mg_m3.jpg</value>
+                                </attribute>
+                                <link type="detail">
+                                    <name>Detail</name>
+                                    <url-params>fh_view_size=10&amp;preview_seo=false&amp;preview_advanced=true&amp;fh_location=%2f%2fdefaultcategory2%2fen_GB%2fcategories%3c%7bdefaultcategory2_latestproducts5%7d&amp;fh_sort=sale_type%2c-news_from_date%2cbrand%2csleeve_length%2cdepartment%2c-price_gbp%2cname%2c-stock_total&amp;fh_refview=lister&amp;fh_secondid=cozaa_h12119_iab&amp;fh_lister_pos=1&amp;fh_modification=</url-params>
+                                </link>
+                            </item>
+                            <item id="cobpx_h12291_iaa">
+                                <attribute isnull="false" name="name" basetype="text">
+                                    <value non-ml="A.P.C. Short Sleeve Bryan Shirt">A.P.C. Short Sleeve Bryan Shirt</value>
+                                </attribute>
+                                <attribute isnull="false" name="sku" basetype="text">
+                                    <value non-ml="COBPX-H12291-IAA">COBPX-H12291-IAA</value>
+                                </attribute>
+                                <attribute isnull="false" name="news_from_date" basetype="text">
+                                    <value non-ml="2017-02-21 00:00:00">2017-02-21 00:00:00</value>
+                                </attribute>
+                                <attribute isnull="false" name="price_gbp" basetype="float">
+                                    <value non-ml="119.0">119.0</value>
+                                </attribute>
+                                <attribute isnull="false" name="sale_type" basetype="text">
+                                    <value non-ml="Not on sale">Not on sale</value>
+                                </attribute>
+                                <attribute isnull="false" name="total_stock" basetype="int">
+                                    <value non-ml="3">3</value>
+                                </attribute>
+                                <attribute isnull="false" name="colour" basetype="list">
+                                    <value non-ml="colour259">Blue</value>
+                                </attribute>
+                                <attribute isnull="false" name="stock_ratio" basetype="float">
+                                    <value non-ml="1.0">1.0</value>
+                                </attribute>
+                                <attribute isnull="false" name="magento_id" basetype="int">
+                                    <value non-ml="452311">452311</value>
+                                </attribute>
+                                <attribute name="_thumburl" basetype="asset" isnull="false">
+                                    <value>http://media.endclothing.com/media/catalog/product/cache/0/thumbnail/400x/9df78eab33525d08d6e5fb8d27136e95/2/2/22-12-2016_apc_shortsleevebryanshirt_blue_cobpx-h12291-iaa_cj_1.jpg</value>
+                                </attribute>
+                                <attribute name="small_image" basetype="asset" isnull="false">
+                                    <value>/2/2/22-12-2016_apc_shortsleevebryanshirt_blue_cobpx-h12291-iaa_cj_1.jpg</value>
+                                </attribute>
+                                <attribute name="stock" basetype="int" isnull="false" selected="false">
+                                    <value non-ml="1">1</value>
+                                    <value non-ml="2">2</value>
+                                </attribute>
+                                <attribute isnull="false" name="stock" basetype="int">
+                                    <value non-ml="1">1</value>
+                                </attribute>
+                                <attribute name="secondid" basetype="text" isnull="false">
+                                    <value non-ml="cobpx_h12291_iaa">cobpx_h12291_iaa</value>
+                                </attribute>
+                                <attribute name="url_key" basetype="asset" isnull="false">
+                                    <value>a-p-c-short-sleeve-bryan-shirt-cobpx-h12291-iaa</value>
+                                </attribute>
+                                <attribute isnull="false" name="actual_colour" basetype="text">
+                                    <value non-ml="Blue">Blue</value>
+                                </attribute>
+                                <attribute isnull="false" name="department" basetype="list">
+                                    <value non-ml="department266917">Short Sleeve Shirts</value>
+                                </attribute>
+                                <attribute name="model_crop_image" basetype="asset" isnull="false">
+                                    <value>/2/2/22-12-2016_apc_shortsleevebryanshirt_blue_cobpx-h12291-iaa_cj_m1.jpg</value>
+                                </attribute>
+                                <attribute name="model_full_image" basetype="asset" isnull="false">
+                                    <value>/2/2/22-12-2016_apc_shortsleevebryanshirt_blue_cobpx-h12291-iaa_cj_m3.jpg</value>
+                                </attribute>
+                                <attribute isnull="false" name="rc_price_stock" basetype="float">
+                                    <value non-ml="69.77908">69.77908</value>
+                                </attribute>
+                                <attribute name="mobile_large_image" basetype="asset" isnull="false">
+                                    <value>http://media.endclothing.com/media/catalog/product/cache/0/image/1000x/9df78eab33525d08d6e5fb8d27136e95/2/2/22-12-2016_apc_shortsleevebryanshirt_blue_cobpx-h12291-iaa_cj_1.jpg</value>
+                                </attribute>
+                                <attribute name="mobile_small_image" basetype="asset" isnull="false">
+                                    <value>http://media.endclothing.com/media/catalog/product/cache/0/thumbnail/400x/9df78eab33525d08d6e5fb8d27136e95/2/2/22-12-2016_apc_shortsleevebryanshirt_blue_cobpx-h12291-iaa_cj_1.jpg</value>
+                                </attribute>
+                                <attribute name="mobile_model_crop_image" basetype="asset" isnull="false">
+                                    <value>http://media.endclothing.com/media/catalog/product/cache/0/model_crop_image/400x/9df78eab33525d08d6e5fb8d27136e95/2/2/22-12-2016_apc_shortsleevebryanshirt_blue_cobpx-h12291-iaa_cj_m1.jpg</value>
+                                </attribute>
+                                <attribute name="mobile_model_full_image" basetype="asset" isnull="false">
+                                    <value>http://media.endclothing.com/media/catalog/product/cache/0/model_full_image/400x/9df78eab33525d08d6e5fb8d27136e95/2/2/22-12-2016_apc_shortsleevebryanshirt_blue_cobpx-h12291-iaa_cj_m3.jpg</value>
+                                </attribute>
+                                <link type="detail">
+                                    <name>Detail</name>
+                                    <url-params>fh_view_size=10&amp;preview_seo=false&amp;preview_advanced=true&amp;fh_location=%2f%2fdefaultcategory2%2fen_GB%2fcategories%3c%7bdefaultcategory2_latestproducts5%7d&amp;fh_sort=sale_type%2c-news_from_date%2cbrand%2csleeve_length%2cdepartment%2c-price_gbp%2cname%2c-stock_total&amp;fh_refview=lister&amp;fh_secondid=cobpx_h12291_iaa&amp;fh_lister_pos=2&amp;fh_modification=</url-params>
+                                </link>
+                            </item>
+                            <item id="az8128">
+                                <attribute isnull="false" name="name" basetype="text">
+                                    <value non-ml="Adidas California Tee">Adidas California Tee</value>
+                                </attribute>
+                                <attribute isnull="false" name="sku" basetype="text">
+                                    <value non-ml="AZ8128">AZ8128</value>
+                                </attribute>
+                                <attribute isnull="false" name="news_from_date" basetype="text">
+                                    <value non-ml="2017-02-21 00:00:00">2017-02-21 00:00:00</value>
+                                </attribute>
+                                <attribute isnull="false" name="price_gbp" basetype="float">
+                                    <value non-ml="29.0">29.0</value>
+                                </attribute>
+                                <attribute isnull="false" name="sale_type" basetype="text">
+                                    <value non-ml="Not on sale">Not on sale</value>
+                                </attribute>
+                                <attribute isnull="false" name="total_stock" basetype="int">
+                                    <value non-ml="144">144</value>
+                                </attribute>
+                                <attribute isnull="false" name="colour" basetype="list">
+                                    <value non-ml="colour256">White</value>
+                                </attribute>
+                                <attribute isnull="false" name="stock_ratio" basetype="float">
+                                    <value non-ml="1.0">1.0</value>
+                                </attribute>
+                                <attribute isnull="false" name="sleeve_length" basetype="list">
+                                    <value non-ml="sleeve_length396964">Short sleeve</value>
+                                </attribute>
+                                <attribute isnull="false" name="magento_id" basetype="int">
+                                    <value non-ml="378403">378403</value>
+                                </attribute>
+                                <attribute name="_thumburl" basetype="asset" isnull="false">
+                                    <value>http://media.endclothing.com/media/catalog/product/cache/0/thumbnail/400x/9df78eab33525d08d6e5fb8d27136e95/1/4/14-06-2016_adidas_californiatee_whiteblack_cj_1.jpg</value>
+                                </attribute>
+                                <attribute name="small_image" basetype="asset" isnull="false">
+                                    <value>/1/4/14-06-2016_adidas_californiatee_whiteblack_cj_1.jpg</value>
+                                </attribute>
+                                <attribute name="stock" basetype="int" isnull="false" selected="false">
+                                    <value non-ml="49">49</value>
+                                    <value non-ml="2">2</value>
+                                    <value non-ml="21">21</value>
+                                    <value non-ml="22">22</value>
+                                    <value non-ml="40">40</value>
+                                    <value non-ml="10">10</value>
+                                </attribute>
+                                <attribute isnull="false" name="stock" basetype="int">
+                                    <value non-ml="2">2</value>
+                                </attribute>
+                                <attribute name="secondid" basetype="text" isnull="false">
+                                    <value non-ml="az8128">az8128</value>
+                                </attribute>
+                                <attribute name="url_key" basetype="asset" isnull="false">
+                                    <value>adidas-california-tee-az8128</value>
+                                </attribute>
+                                <attribute isnull="false" name="actual_colour" basetype="text">
+                                    <value non-ml="White &amp; Black">White &amp; Black</value>
+                                </attribute>
+                                <attribute isnull="false" name="department" basetype="list">
+                                    <value non-ml="department857">T-Shirts</value>
+                                </attribute>
+                                <attribute name="model_crop_image" basetype="asset" isnull="false">
+                                    <value>/0/4/04-01-2017_adidas_californiatee_white_black_az8128_ah_m1.jpg</value>
+                                </attribute>
+                                <attribute name="model_full_image" basetype="asset" isnull="false">
+                                    <value>/0/4/04-01-2017_adidas_californiatee_white_black_az8128_ah_m3.jpg</value>
+                                </attribute>
+                                <attribute isnull="false" name="rc_price_stock" basetype="float">
+                                    <value non-ml="56.830143">56.830143</value>
+                                </attribute>
+                                <attribute name="mobile_large_image" basetype="asset" isnull="false">
+                                    <value>http://media.endclothing.com/media/catalog/product/cache/0/image/1000x/9df78eab33525d08d6e5fb8d27136e95/1/4/14-06-2016_adidas_californiatee_whiteblack_cj_1.jpg</value>
+                                </attribute>
+                                <attribute name="mobile_small_image" basetype="asset" isnull="false">
+                                    <value>http://media.endclothing.com/media/catalog/product/cache/0/thumbnail/400x/9df78eab33525d08d6e5fb8d27136e95/1/4/14-06-2016_adidas_californiatee_whiteblack_cj_1.jpg</value>
+                                </attribute>
+                                <attribute name="mobile_model_crop_image" basetype="asset" isnull="false">
+                                    <value>http://media.endclothing.com/media/catalog/product/cache/0/model_crop_image/400x/9df78eab33525d08d6e5fb8d27136e95/0/4/04-01-2017_adidas_californiatee_white_black_az8128_ah_m1.jpg</value>
+                                </attribute>
+                                <attribute name="mobile_model_full_image" basetype="asset" isnull="false">
+                                    <value>http://media.endclothing.com/media/catalog/product/cache/0/model_full_image/400x/9df78eab33525d08d6e5fb8d27136e95/0/4/04-01-2017_adidas_californiatee_white_black_az8128_ah_m3.jpg</value>
+                                </attribute>
+                                <link type="detail">
+                                    <name>Detail</name>
+                                    <url-params>fh_view_size=10&amp;preview_seo=false&amp;preview_advanced=true&amp;fh_location=%2f%2fdefaultcategory2%2fen_GB%2fcategories%3c%7bdefaultcategory2_latestproducts5%7d&amp;fh_sort=sale_type%2c-news_from_date%2cbrand%2csleeve_length%2cdepartment%2c-price_gbp%2cname%2c-stock_total&amp;fh_refview=lister&amp;fh_secondid=az8128&amp;fh_lister_pos=3&amp;fh_modification=</url-params>
+                                </link>
+                            </item>
+                            <item id="az8129">
+                                <attribute isnull="false" name="name" basetype="text">
+                                    <value non-ml="Adidas California Tee">Adidas California Tee</value>
+                                </attribute>
+                                <attribute isnull="false" name="sku" basetype="text">
+                                    <value non-ml="AZ8129">AZ8129</value>
+                                </attribute>
+                                <attribute isnull="false" name="news_from_date" basetype="text">
+                                    <value non-ml="2017-02-21 00:00:00">2017-02-21 00:00:00</value>
+                                </attribute>
+                                <attribute isnull="false" name="price_gbp" basetype="float">
+                                    <value non-ml="29.0">29.0</value>
+                                </attribute>
+                                <attribute isnull="false" name="sale_type" basetype="text">
+                                    <value non-ml="Not on sale">Not on sale</value>
+                                </attribute>
+                                <attribute isnull="false" name="total_stock" basetype="int">
+                                    <value non-ml="37">37</value>
+                                </attribute>
+                                <attribute isnull="false" name="colour" basetype="list">
+                                    <value non-ml="colour259">Blue</value>
+                                </attribute>
+                                <attribute isnull="false" name="stock_ratio" basetype="float">
+                                    <value non-ml="1.0">1.0</value>
+                                </attribute>
+                                <attribute isnull="false" name="sleeve_length" basetype="list">
+                                    <value non-ml="sleeve_length396964">Short sleeve</value>
+                                </attribute>
+                                <attribute isnull="false" name="magento_id" basetype="int">
+                                    <value non-ml="378366">378366</value>
+                                </attribute>
+                                <attribute name="_thumburl" basetype="asset" isnull="false">
+                                    <value>http://media.endclothing.com/media/catalog/product/cache/0/thumbnail/400x/9df78eab33525d08d6e5fb8d27136e95/1/4/14-06-2016_adidas_californiatee_bluebird_jtl_1.jpg</value>
+                                </attribute>
+                                <attribute name="small_image" basetype="asset" isnull="false">
+                                    <value>/1/4/14-06-2016_adidas_californiatee_bluebird_jtl_1.jpg</value>
+                                </attribute>
+                                <attribute name="stock" basetype="int" isnull="false" selected="false">
+                                    <value non-ml="1">1</value>
+                                    <value non-ml="2">2</value>
+                                    <value non-ml="18">18</value>
+                                    <value non-ml="3">3</value>
+                                    <value non-ml="4">4</value>
+                                    <value non-ml="9">9</value>
+                                </attribute>
+                                <attribute isnull="false" name="stock" basetype="int">
+                                    <value non-ml="1">1</value>
+                                </attribute>
+                                <attribute name="secondid" basetype="text" isnull="false">
+                                    <value non-ml="az8129">az8129</value>
+                                </attribute>
+                                <attribute name="url_key" basetype="asset" isnull="false">
+                                    <value>adidas-california-tee-az8129</value>
+                                </attribute>
+                                <attribute isnull="false" name="actual_colour" basetype="text">
+                                    <value non-ml="Bluebird">Bluebird</value>
+                                </attribute>
+                                <attribute isnull="false" name="department" basetype="list">
+                                    <value non-ml="department857">T-Shirts</value>
+                                </attribute>
+                                <attribute name="model_crop_image" basetype="asset" isnull="false">
+                                    <value>/1/6/16-02-2017_adidas_californiatee_bluebird_az8129_sh_m1.jpg</value>
+                                </attribute>
+                                <attribute name="model_full_image" basetype="asset" isnull="false">
+                                    <value>/1/6/16-02-2017_adidas_californiatee_bluebird_az8129_sh_m3.jpg</value>
+                                </attribute>
+                                <attribute isnull="false" name="rc_price_stock" basetype="float">
+                                    <value non-ml="56.830143">56.830143</value>
+                                </attribute>
+                                <attribute name="mobile_large_image" basetype="asset" isnull="false">
+                                    <value>http://media.endclothing.com/media/catalog/product/cache/0/image/1000x/9df78eab33525d08d6e5fb8d27136e95/1/4/14-06-2016_adidas_californiatee_bluebird_jtl_1.jpg</value>
+                                </attribute>
+                                <attribute name="mobile_small_image" basetype="asset" isnull="false">
+                                    <value>http://media.endclothing.com/media/catalog/product/cache/0/thumbnail/400x/9df78eab33525d08d6e5fb8d27136e95/1/4/14-06-2016_adidas_californiatee_bluebird_jtl_1.jpg</value>
+                                </attribute>
+                                <attribute name="mobile_model_crop_image" basetype="asset" isnull="false">
+                                    <value>http://media.endclothing.com/media/catalog/product/cache/0/model_crop_image/400x/9df78eab33525d08d6e5fb8d27136e95/1/6/16-02-2017_adidas_californiatee_bluebird_az8129_sh_m1.jpg</value>
+                                </attribute>
+                                <attribute name="mobile_model_full_image" basetype="asset" isnull="false">
+                                    <value>http://media.endclothing.com/media/catalog/product/cache/0/model_full_image/400x/9df78eab33525d08d6e5fb8d27136e95/1/6/16-02-2017_adidas_californiatee_bluebird_az8129_sh_m3.jpg</value>
+                                </attribute>
+                                <link type="detail">
+                                    <name>Detail</name>
+                                    <url-params>fh_view_size=10&amp;preview_seo=false&amp;preview_advanced=true&amp;fh_location=%2f%2fdefaultcategory2%2fen_GB%2fcategories%3c%7bdefaultcategory2_latestproducts5%7d&amp;fh_sort=sale_type%2c-news_from_date%2cbrand%2csleeve_length%2cdepartment%2c-price_gbp%2cname%2c-stock_total&amp;fh_refview=lister&amp;fh_secondid=az8129&amp;fh_lister_pos=4&amp;fh_modification=</url-params>
+                                </link>
+                            </item>
+                            <item id="bb1242">
+                                <attribute isnull="false" name="name" basetype="text">
+                                    <value non-ml="Adidas EQT Support Ultra PK">Adidas EQT Support Ultra PK</value>
+                                </attribute>
+                                <attribute isnull="false" name="sku" basetype="text">
+                                    <value non-ml="BB1242">BB1242</value>
+                                </attribute>
+                                <attribute isnull="false" name="news_from_date" basetype="text">
+                                    <value non-ml="2017-02-21 00:00:00">2017-02-21 00:00:00</value>
+                                </attribute>
+                                <attribute isnull="false" name="price_gbp" basetype="float">
+                                    <value non-ml="129.0">129.0</value>
+                                </attribute>
+                                <attribute isnull="false" name="sale_type" basetype="text">
+                                    <value non-ml="Not on sale">Not on sale</value>
+                                </attribute>
+                                <attribute isnull="false" name="total_stock" basetype="int">
+                                    <value non-ml="319">319</value>
+                                </attribute>
+                                <attribute isnull="false" name="colour" basetype="list">
+                                    <value non-ml="colour256">White</value>
+                                </attribute>
+                                <attribute isnull="false" name="stock_ratio" basetype="float">
+                                    <value non-ml="1.0">1.0</value>
+                                </attribute>
+                                <attribute isnull="false" name="magento_id" basetype="int">
+                                    <value non-ml="470020">470020</value>
+                                </attribute>
+                                <attribute name="_thumburl" basetype="asset" isnull="false">
+                                    <value>http://media.endclothing.com/media/catalog/product/cache/0/thumbnail/400x/9df78eab33525d08d6e5fb8d27136e95/2/5/25-01-2017_adidas_eqtsupportultrapk_vintagewhite_coreblack_bb1242_hh_1.jpg</value>
+                                </attribute>
+                                <attribute name="small_image" basetype="asset" isnull="false">
+                                    <value>/2/5/25-01-2017_adidas_eqtsupportultrapk_vintagewhite_coreblack_bb1242_hh_1.jpg</value>
+                                </attribute>
+                                <attribute name="stock" basetype="int" isnull="false" selected="false">
+                                    <value non-ml="2">2</value>
+                                    <value non-ml="34">34</value>
+                                    <value non-ml="3">3</value>
+                                    <value non-ml="36">36</value>
+                                    <value non-ml="8">8</value>
+                                    <value non-ml="11">11</value>
+                                    <value non-ml="15">15</value>
+                                    <value non-ml="47">47</value>
+                                    <value non-ml="49">49</value>
+                                    <value non-ml="20">20</value>
+                                    <value non-ml="57">57</value>
+                                    <value non-ml="29">29</value>
+                                </attribute>
+                                <attribute isnull="false" name="stock" basetype="int">
+                                    <value non-ml="2">2</value>
+                                </attribute>
+                                <attribute name="secondid" basetype="text" isnull="false">
+                                    <value non-ml="bb1242">bb1242</value>
+                                </attribute>
+                                <attribute name="url_key" basetype="asset" isnull="false">
+                                    <value>adidas-eqt-support-ultra-pk-bb1242</value>
+                                </attribute>
+                                <attribute isnull="false" name="actual_colour" basetype="text">
+                                    <value non-ml="Vintage White &amp; Core Black">Vintage White &amp; Core Black</value>
+                                </attribute>
+                                <attribute isnull="false" name="department" basetype="list">
+                                    <value non-ml="department316">Sneakers</value>
+                                </attribute>
+                                <attribute name="model_crop_image" basetype="asset" isnull="false">
+                                    <value>/2/5/25-01-2017_adidas_eqtsupportultrapk_vintagewhite_coreblack_bb1242_hh_4.jpg</value>
+                                </attribute>
+                                <attribute name="model_full_image" basetype="asset" isnull="false">
+                                    <value>/2/5/25-01-2017_adidas_eqtsupportultrapk_vintagewhite_coreblack_bb1242_hh_4.jpg</value>
+                                </attribute>
+                                <attribute isnull="false" name="rc_price_stock" basetype="float">
+                                    <value non-ml="70.52674">70.52674</value>
+                                </attribute>
+                                <attribute name="mobile_large_image" basetype="asset" isnull="false">
+                                    <value>http://media.endclothing.com/media/catalog/product/cache/0/image/1000x/9df78eab33525d08d6e5fb8d27136e95/2/5/25-01-2017_adidas_eqtsupportultrapk_vintagewhite_coreblack_bb1242_hh_1.jpg</value>
+                                </attribute>
+                                <attribute name="mobile_small_image" basetype="asset" isnull="false">
+                                    <value>http://media.endclothing.com/media/catalog/product/cache/0/thumbnail/400x/9df78eab33525d08d6e5fb8d27136e95/2/5/25-01-2017_adidas_eqtsupportultrapk_vintagewhite_coreblack_bb1242_hh_1.jpg</value>
+                                </attribute>
+                                <attribute name="mobile_model_crop_image" basetype="asset" isnull="false">
+                                    <value>http://media.endclothing.com/media/catalog/product/cache/0/model_crop_image/400x/9df78eab33525d08d6e5fb8d27136e95/2/5/25-01-2017_adidas_eqtsupportultrapk_vintagewhite_coreblack_bb1242_hh_4.jpg</value>
+                                </attribute>
+                                <attribute name="mobile_model_full_image" basetype="asset" isnull="false">
+                                    <value>http://media.endclothing.com/media/catalog/product/cache/0/model_full_image/400x/9df78eab33525d08d6e5fb8d27136e95/2/5/25-01-2017_adidas_eqtsupportultrapk_vintagewhite_coreblack_bb1242_hh_4.jpg</value>
+                                </attribute>
+                                <link type="detail">
+                                    <name>Detail</name>
+                                    <url-params>fh_view_size=10&amp;preview_seo=false&amp;preview_advanced=true&amp;fh_location=%2f%2fdefaultcategory2%2fen_GB%2fcategories%3c%7bdefaultcategory2_latestproducts5%7d&amp;fh_sort=sale_type%2c-news_from_date%2cbrand%2csleeve_length%2cdepartment%2c-price_gbp%2cname%2c-stock_total&amp;fh_refview=lister&amp;fh_secondid=bb1242&amp;fh_lister_pos=5&amp;fh_modification=</url-params>
+                                </link>
+                            </item>
+                            <item id="bb1241">
+                                <attribute isnull="false" name="name" basetype="text">
+                                    <value non-ml="Adidas EQT Support Ultra PK">Adidas EQT Support Ultra PK</value>
+                                </attribute>
+                                <attribute isnull="false" name="sku" basetype="text">
+                                    <value non-ml="BB1241">BB1241</value>
+                                </attribute>
+                                <attribute isnull="false" name="news_from_date" basetype="text">
+                                    <value non-ml="2017-02-21 00:00:00">2017-02-21 00:00:00</value>
+                                </attribute>
+                                <attribute isnull="false" name="price_gbp" basetype="float">
+                                    <value non-ml="129.0">129.0</value>
+                                </attribute>
+                                <attribute isnull="false" name="sale_type" basetype="text">
+                                    <value non-ml="Not on sale">Not on sale</value>
+                                </attribute>
+                                <attribute isnull="false" name="total_stock" basetype="int">
+                                    <value non-ml="65">65</value>
+                                </attribute>
+                                <attribute isnull="false" name="colour" basetype="list">
+                                    <value non-ml="colour258">Black</value>
+                                </attribute>
+                                <attribute isnull="false" name="stock_ratio" basetype="float">
+                                    <value non-ml="1.0">1.0</value>
+                                </attribute>
+                                <attribute isnull="false" name="magento_id" basetype="int">
+                                    <value non-ml="470019">470019</value>
+                                </attribute>
+                                <attribute name="_thumburl" basetype="asset" isnull="false">
+                                    <value>http://media.endclothing.com/media/catalog/product/cache/0/thumbnail/400x/9df78eab33525d08d6e5fb8d27136e95/2/5/25-01-2017_adidas_eqtsupportultrapk_coreblack_white_bb1241_ah_1-1.jpg</value>
+                                </attribute>
+                                <attribute name="small_image" basetype="asset" isnull="false">
+                                    <value>/2/5/25-01-2017_adidas_eqtsupportultrapk_coreblack_white_bb1241_ah_1-1.jpg</value>
+                                </attribute>
+                                <attribute name="stock" basetype="int" isnull="false" selected="false">
+                                    <value non-ml="17">17</value>
+                                    <value non-ml="2">2</value>
+                                    <value non-ml="3">3</value>
+                                    <value non-ml="4">4</value>
+                                    <value non-ml="5">5</value>
+                                    <value non-ml="6">6</value>
+                                    <value non-ml="8">8</value>
+                                    <value non-ml="10">10</value>
+                                </attribute>
+                                <attribute isnull="false" name="stock" basetype="int">
+                                    <value non-ml="2">2</value>
+                                </attribute>
+                                <attribute name="secondid" basetype="text" isnull="false">
+                                    <value non-ml="bb1241">bb1241</value>
+                                </attribute>
+                                <attribute name="url_key" basetype="asset" isnull="false">
+                                    <value>adidas-eqt-support-ultra-pk-bb1241</value>
+                                </attribute>
+                                <attribute isnull="false" name="actual_colour" basetype="text">
+                                    <value non-ml="Core Black &amp; White">Core Black &amp; White</value>
+                                </attribute>
+                                <attribute isnull="false" name="department" basetype="list">
+                                    <value non-ml="department316">Sneakers</value>
+                                </attribute>
+                                <attribute name="model_crop_image" basetype="asset" isnull="false">
+                                    <value>/2/5/25-01-2017_adidas_eqtsupportultrapk_coreblack_white_bb1241_ah_7.jpg</value>
+                                </attribute>
+                                <attribute name="model_full_image" basetype="asset" isnull="false">
+                                    <value>/2/5/25-01-2017_adidas_eqtsupportultrapk_coreblack_white_bb1241_ah_7.jpg</value>
+                                </attribute>
+                                <attribute isnull="false" name="rc_price_stock" basetype="float">
+                                    <value non-ml="70.52674">70.52674</value>
+                                </attribute>
+                                <attribute name="mobile_large_image" basetype="asset" isnull="false">
+                                    <value>http://media.endclothing.com/media/catalog/product/cache/0/image/1000x/9df78eab33525d08d6e5fb8d27136e95/2/5/25-01-2017_adidas_eqtsupportultrapk_coreblack_white_bb1241_ah_1-1.jpg</value>
+                                </attribute>
+                                <attribute name="mobile_small_image" basetype="asset" isnull="false">
+                                    <value>http://media.endclothing.com/media/catalog/product/cache/0/thumbnail/400x/9df78eab33525d08d6e5fb8d27136e95/2/5/25-01-2017_adidas_eqtsupportultrapk_coreblack_white_bb1241_ah_1-1.jpg</value>
+                                </attribute>
+                                <attribute name="mobile_model_crop_image" basetype="asset" isnull="false">
+                                    <value>http://media.endclothing.com/media/catalog/product/cache/0/model_crop_image/400x/9df78eab33525d08d6e5fb8d27136e95/2/5/25-01-2017_adidas_eqtsupportultrapk_coreblack_white_bb1241_ah_7.jpg</value>
+                                </attribute>
+                                <attribute name="mobile_model_full_image" basetype="asset" isnull="false">
+                                    <value>http://media.endclothing.com/media/catalog/product/cache/0/model_full_image/400x/9df78eab33525d08d6e5fb8d27136e95/2/5/25-01-2017_adidas_eqtsupportultrapk_coreblack_white_bb1241_ah_7.jpg</value>
+                                </attribute>
+                                <link type="detail">
+                                    <name>Detail</name>
+                                    <url-params>fh_view_size=10&amp;preview_seo=false&amp;preview_advanced=true&amp;fh_location=%2f%2fdefaultcategory2%2fen_GB%2fcategories%3c%7bdefaultcategory2_latestproducts5%7d&amp;fh_sort=sale_type%2c-news_from_date%2cbrand%2csleeve_length%2cdepartment%2c-price_gbp%2cname%2c-stock_total&amp;fh_refview=lister&amp;fh_secondid=bb1241&amp;fh_lister_pos=6&amp;fh_modification=</url-params>
+                                </link>
+                            </item>
+                            <item id="ba9616">
+                                <attribute isnull="false" name="name" basetype="text">
+                                    <value non-ml="Adidas Ultra Boost Uncaged">Adidas Ultra Boost Uncaged</value>
+                                </attribute>
+                                <attribute isnull="false" name="sku" basetype="text">
+                                    <value non-ml="BA9616">BA9616</value>
+                                </attribute>
+                                <attribute isnull="false" name="news_from_date" basetype="text">
+                                    <value non-ml="2017-02-21 00:00:00">2017-02-21 00:00:00</value>
+                                </attribute>
+                                <attribute isnull="false" name="price_gbp" basetype="float">
+                                    <value non-ml="129.0">129.0</value>
+                                </attribute>
+                                <attribute isnull="false" name="sale_type" basetype="text">
+                                    <value non-ml="Not on sale">Not on sale</value>
+                                </attribute>
+                                <attribute isnull="false" name="total_stock" basetype="int">
+                                    <value non-ml="510">510</value>
+                                </attribute>
+                                <attribute isnull="false" name="colour" basetype="list">
+                                    <value non-ml="colour256">White</value>
+                                </attribute>
+                                <attribute isnull="false" name="stock_ratio" basetype="float">
+                                    <value non-ml="1.0">1.0</value>
+                                </attribute>
+                                <attribute isnull="false" name="magento_id" basetype="int">
+                                    <value non-ml="464094">464094</value>
+                                </attribute>
+                                <attribute name="_thumburl" basetype="asset" isnull="false">
+                                    <value>http://media.endclothing.com/media/catalog/product/cache/0/thumbnail/400x/9df78eab33525d08d6e5fb8d27136e95/2/1/21-02-2017_adidas_ultraboostuncaged_white_collegiatenavy_ba9616_th_1.jpg</value>
+                                </attribute>
+                                <attribute name="small_image" basetype="asset" isnull="false">
+                                    <value>/2/1/21-02-2017_adidas_ultraboostuncaged_white_collegiatenavy_ba9616_th_1.jpg</value>
+                                </attribute>
+                                <attribute name="stock" basetype="int" isnull="false" selected="false">
+                                    <value non-ml="96">96</value>
+                                    <value non-ml="1">1</value>
+                                    <value non-ml="18">18</value>
+                                    <value non-ml="51">51</value>
+                                    <value non-ml="5">5</value>
+                                    <value non-ml="6">6</value>
+                                    <value non-ml="54">54</value>
+                                    <value non-ml="73">73</value>
+                                    <value non-ml="89">89</value>
+                                    <value non-ml="25">25</value>
+                                    <value non-ml="92">92</value>
+                                </attribute>
+                                <attribute isnull="false" name="stock" basetype="int">
+                                    <value non-ml="1">1</value>
+                                </attribute>
+                                <attribute name="secondid" basetype="text" isnull="false">
+                                    <value non-ml="ba9616">ba9616</value>
+                                </attribute>
+                                <attribute name="url_key" basetype="asset" isnull="false">
+                                    <value>adidas-ultra-boost-uncaged-ba9616</value>
+                                </attribute>
+                                <attribute isnull="false" name="actual_colour" basetype="text">
+                                    <value non-ml="White &amp; Collegiate Navy">White &amp; Collegiate Navy</value>
+                                </attribute>
+                                <attribute isnull="false" name="department" basetype="list">
+                                    <value non-ml="department316">Sneakers</value>
+                                </attribute>
+                                <attribute name="model_crop_image" basetype="asset" isnull="false">
+                                    <value>/2/1/21-02-2017_adidas_ultraboostuncaged_white_collegiatenavy_ba9616_th_4.jpg</value>
+                                </attribute>
+                                <attribute name="model_full_image" basetype="asset" isnull="false">
+                                    <value>/2/1/21-02-2017_adidas_ultraboostuncaged_white_collegiatenavy_ba9616_th_4.jpg</value>
+                                </attribute>
+                                <attribute isnull="false" name="rc_price_stock" basetype="float">
+                                    <value non-ml="70.52674">70.52674</value>
+                                </attribute>
+                                <attribute name="mobile_large_image" basetype="asset" isnull="false">
+                                    <value>http://media.endclothing.com/media/catalog/product/cache/0/image/1000x/9df78eab33525d08d6e5fb8d27136e95/2/1/21-02-2017_adidas_ultraboostuncaged_white_collegiatenavy_ba9616_th_1.jpg</value>
+                                </attribute>
+                                <attribute name="mobile_small_image" basetype="asset" isnull="false">
+                                    <value>http://media.endclothing.com/media/catalog/product/cache/0/thumbnail/400x/9df78eab33525d08d6e5fb8d27136e95/2/1/21-02-2017_adidas_ultraboostuncaged_white_collegiatenavy_ba9616_th_1.jpg</value>
+                                </attribute>
+                                <attribute name="mobile_model_crop_image" basetype="asset" isnull="false">
+                                    <value>http://media.endclothing.com/media/catalog/product/cache/0/model_crop_image/400x/9df78eab33525d08d6e5fb8d27136e95/2/1/21-02-2017_adidas_ultraboostuncaged_white_collegiatenavy_ba9616_th_4.jpg</value>
+                                </attribute>
+                                <attribute name="mobile_model_full_image" basetype="asset" isnull="false">
+                                    <value>http://media.endclothing.com/media/catalog/product/cache/0/model_full_image/400x/9df78eab33525d08d6e5fb8d27136e95/2/1/21-02-2017_adidas_ultraboostuncaged_white_collegiatenavy_ba9616_th_4.jpg</value>
+                                </attribute>
+                                <link type="detail">
+                                    <name>Detail</name>
+                                    <url-params>fh_view_size=10&amp;preview_seo=false&amp;preview_advanced=true&amp;fh_location=%2f%2fdefaultcategory2%2fen_GB%2fcategories%3c%7bdefaultcategory2_latestproducts5%7d&amp;fh_sort=sale_type%2c-news_from_date%2cbrand%2csleeve_length%2cdepartment%2c-price_gbp%2cname%2c-stock_total&amp;fh_refview=lister&amp;fh_secondid=ba9616&amp;fh_lister_pos=7&amp;fh_modification=</url-params>
+                                </link>
+                            </item>
+                            <item id="ba9617">
+                                <attribute isnull="false" name="name" basetype="text">
+                                    <value non-ml="Adidas Ultra Boost Uncaged">Adidas Ultra Boost Uncaged</value>
+                                </attribute>
+                                <attribute isnull="false" name="sku" basetype="text">
+                                    <value non-ml="BA9617">BA9617</value>
+                                </attribute>
+                                <attribute isnull="false" name="news_from_date" basetype="text">
+                                    <value non-ml="2017-02-21 00:00:00">2017-02-21 00:00:00</value>
+                                </attribute>
+                                <attribute isnull="false" name="price_gbp" basetype="float">
+                                    <value non-ml="129.0">129.0</value>
+                                </attribute>
+                                <attribute isnull="false" name="sale_type" basetype="text">
+                                    <value non-ml="Not on sale">Not on sale</value>
+                                </attribute>
+                                <attribute isnull="false" name="total_stock" basetype="int">
+                                    <value non-ml="346">346</value>
+                                </attribute>
+                                <attribute isnull="false" name="colour" basetype="list">
+                                    <value non-ml="colour255">Red</value>
+                                </attribute>
+                                <attribute isnull="false" name="stock_ratio" basetype="float">
+                                    <value non-ml="1.0">1.0</value>
+                                </attribute>
+                                <attribute isnull="false" name="magento_id" basetype="int">
+                                    <value non-ml="486922">486922</value>
+                                </attribute>
+                                <attribute name="_thumburl" basetype="asset" isnull="false">
+                                    <value>http://media.endclothing.com/media/catalog/product/cache/0/thumbnail/400x/9df78eab33525d08d6e5fb8d27136e95/2/1/21-02-2017_adidas_ultraboostuncaged_mysteryred_burgundy_ba9617_th_1.jpg</value>
+                                </attribute>
+                                <attribute name="small_image" basetype="asset" isnull="false">
+                                    <value>/2/1/21-02-2017_adidas_ultraboostuncaged_mysteryred_burgundy_ba9617_th_1.jpg</value>
+                                </attribute>
+                                <attribute name="stock" basetype="int" isnull="false" selected="false">
+                                    <value non-ml="1">1</value>
+                                    <value non-ml="3">3</value>
+                                    <value non-ml="4">4</value>
+                                    <value non-ml="6">6</value>
+                                    <value non-ml="9">9</value>
+                                    <value non-ml="45">45</value>
+                                    <value non-ml="14">14</value>
+                                    <value non-ml="47">47</value>
+                                    <value non-ml="16">16</value>
+                                    <value non-ml="19">19</value>
+                                    <value non-ml="21">21</value>
+                                    <value non-ml="23">23</value>
+                                    <value non-ml="58">58</value>
+                                    <value non-ml="26">26</value>
+                                    <value non-ml="31">31</value>
+                                </attribute>
+                                <attribute isnull="false" name="stock" basetype="int">
+                                    <value non-ml="1">1</value>
+                                </attribute>
+                                <attribute name="secondid" basetype="text" isnull="false">
+                                    <value non-ml="ba9617">ba9617</value>
+                                </attribute>
+                                <attribute name="url_key" basetype="asset" isnull="false">
+                                    <value>adidas-ultra-boost-uncaged-ba9617</value>
+                                </attribute>
+                                <attribute isnull="false" name="actual_colour" basetype="text">
+                                    <value non-ml="Mystery Red &amp; Burgundy">Mystery Red &amp; Burgundy</value>
+                                </attribute>
+                                <attribute isnull="false" name="department" basetype="list">
+                                    <value non-ml="department316">Sneakers</value>
+                                </attribute>
+                                <attribute name="model_crop_image" basetype="asset" isnull="false">
+                                    <value>/2/1/21-02-2017_adidas_ultraboostuncaged_mysteryred_burgundy_ba9617_th_4.jpg</value>
+                                </attribute>
+                                <attribute name="model_full_image" basetype="asset" isnull="false">
+                                    <value>/2/1/21-02-2017_adidas_ultraboostuncaged_mysteryred_burgundy_ba9617_th_4.jpg</value>
+                                </attribute>
+                                <attribute isnull="false" name="rc_price_stock" basetype="float">
+                                    <value non-ml="30.526743">30.526743</value>
+                                </attribute>
+                                <attribute name="mobile_large_image" basetype="asset" isnull="false">
+                                    <value>http://media.endclothing.com/media/catalog/product/cache/0/image/1000x/9df78eab33525d08d6e5fb8d27136e95/2/1/21-02-2017_adidas_ultraboostuncaged_mysteryred_burgundy_ba9617_th_1.jpg</value>
+                                </attribute>
+                                <attribute name="mobile_small_image" basetype="asset" isnull="false">
+                                    <value>http://media.endclothing.com/media/catalog/product/cache/0/thumbnail/400x/9df78eab33525d08d6e5fb8d27136e95/2/1/21-02-2017_adidas_ultraboostuncaged_mysteryred_burgundy_ba9617_th_1.jpg</value>
+                                </attribute>
+                                <attribute name="mobile_model_crop_image" basetype="asset" isnull="false">
+                                    <value>http://media.endclothing.com/media/catalog/product/cache/0/model_crop_image/400x/9df78eab33525d08d6e5fb8d27136e95/2/1/21-02-2017_adidas_ultraboostuncaged_mysteryred_burgundy_ba9617_th_4.jpg</value>
+                                </attribute>
+                                <attribute name="mobile_model_full_image" basetype="asset" isnull="false">
+                                    <value>http://media.endclothing.com/media/catalog/product/cache/0/model_full_image/400x/9df78eab33525d08d6e5fb8d27136e95/2/1/21-02-2017_adidas_ultraboostuncaged_mysteryred_burgundy_ba9617_th_4.jpg</value>
+                                </attribute>
+                                <link type="detail">
+                                    <name>Detail</name>
+                                    <url-params>fh_view_size=10&amp;preview_seo=false&amp;preview_advanced=true&amp;fh_location=%2f%2fdefaultcategory2%2fen_GB%2fcategories%3c%7bdefaultcategory2_latestproducts5%7d&amp;fh_sort=sale_type%2c-news_from_date%2cbrand%2csleeve_length%2cdepartment%2c-price_gbp%2cname%2c-stock_total&amp;fh_refview=lister&amp;fh_secondid=ba9617&amp;fh_lister_pos=8&amp;fh_modification=</url-params>
+                                </link>
+                            </item>
+                            <item id="ba9796">
+                                <attribute isnull="false" name="name" basetype="text">
+                                    <value non-ml="Adidas Ultra Boost Uncaged">Adidas Ultra Boost Uncaged</value>
+                                </attribute>
+                                <attribute isnull="false" name="sku" basetype="text">
+                                    <value non-ml="BA9796">BA9796</value>
+                                </attribute>
+                                <attribute isnull="false" name="news_from_date" basetype="text">
+                                    <value non-ml="2017-02-21 00:00:00">2017-02-21 00:00:00</value>
+                                </attribute>
+                                <attribute isnull="false" name="price_gbp" basetype="float">
+                                    <value non-ml="129.0">129.0</value>
+                                </attribute>
+                                <attribute isnull="false" name="sale_type" basetype="text">
+                                    <value non-ml="Not on sale">Not on sale</value>
+                                </attribute>
+                                <attribute isnull="false" name="total_stock" basetype="int">
+                                    <value non-ml="319">319</value>
+                                </attribute>
+                                <attribute isnull="false" name="colour" basetype="list">
+                                    <value non-ml="colour258">Black</value>
+                                </attribute>
+                                <attribute isnull="false" name="stock_ratio" basetype="float">
+                                    <value non-ml="1.0">1.0</value>
+                                </attribute>
+                                <attribute isnull="false" name="magento_id" basetype="int">
+                                    <value non-ml="478365">478365</value>
+                                </attribute>
+                                <attribute name="_thumburl" basetype="asset" isnull="false">
+                                    <value>http://media.endclothing.com/media/catalog/product/cache/0/thumbnail/400x/9df78eab33525d08d6e5fb8d27136e95/2/1/21-02-2017_adidas_ultraboostuncaged_coreblack_darkgrey_ba979619_ah_1_1.jpg</value>
+                                </attribute>
+                                <attribute name="small_image" basetype="asset" isnull="false">
+                                    <value>/2/1/21-02-2017_adidas_ultraboostuncaged_coreblack_darkgrey_ba979619_ah_1_1.jpg</value>
+                                </attribute>
+                                <attribute name="stock" basetype="int" isnull="false" selected="false">
+                                    <value non-ml="1">1</value>
+                                    <value non-ml="35">35</value>
+                                    <value non-ml="5">5</value>
+                                    <value non-ml="9">9</value>
+                                    <value non-ml="10">10</value>
+                                    <value non-ml="46">46</value>
+                                    <value non-ml="16">16</value>
+                                    <value non-ml="17">17</value>
+                                    <value non-ml="19">19</value>
+                                    <value non-ml="20">20</value>
+                                    <value non-ml="53">53</value>
+                                    <value non-ml="27">27</value>
+                                    <value non-ml="29">29</value>
+                                </attribute>
+                                <attribute isnull="false" name="stock" basetype="int">
+                                    <value non-ml="1">1</value>
+                                </attribute>
+                                <attribute name="secondid" basetype="text" isnull="false">
+                                    <value non-ml="ba9796">ba9796</value>
+                                </attribute>
+                                <attribute name="url_key" basetype="asset" isnull="false">
+                                    <value>adidas-ultra-boost-uncaged-ba9796</value>
+                                </attribute>
+                                <attribute isnull="false" name="actual_colour" basetype="text">
+                                    <value non-ml="Core Black &amp; Dark Grey">Core Black &amp; Dark Grey</value>
+                                </attribute>
+                                <attribute isnull="false" name="department" basetype="list">
+                                    <value non-ml="department316">Sneakers</value>
+                                </attribute>
+                                <attribute name="model_crop_image" basetype="asset" isnull="false">
+                                    <value>/2/1/21-02-2017_adidas_ultraboostuncaged_coreblack_darkgrey_ba979619_ah_8_1.jpg</value>
+                                </attribute>
+                                <attribute name="model_full_image" basetype="asset" isnull="false">
+                                    <value>/2/1/21-02-2017_adidas_ultraboostuncaged_coreblack_darkgrey_ba979619_ah_8_1.jpg</value>
+                                </attribute>
+                                <attribute isnull="false" name="rc_price_stock" basetype="float">
+                                    <value non-ml="70.52674">70.52674</value>
+                                </attribute>
+                                <attribute name="mobile_large_image" basetype="asset" isnull="false">
+                                    <value>http://media.endclothing.com/media/catalog/product/cache/0/image/1000x/9df78eab33525d08d6e5fb8d27136e95/2/1/21-02-2017_adidas_ultraboostuncaged_coreblack_darkgrey_ba979619_ah_1_1.jpg</value>
+                                </attribute>
+                                <attribute name="mobile_small_image" basetype="asset" isnull="false">
+                                    <value>http://media.endclothing.com/media/catalog/product/cache/0/thumbnail/400x/9df78eab33525d08d6e5fb8d27136e95/2/1/21-02-2017_adidas_ultraboostuncaged_coreblack_darkgrey_ba979619_ah_1_1.jpg</value>
+                                </attribute>
+                                <attribute name="mobile_model_crop_image" basetype="asset" isnull="false">
+                                    <value>http://media.endclothing.com/media/catalog/product/cache/0/model_crop_image/400x/9df78eab33525d08d6e5fb8d27136e95/2/1/21-02-2017_adidas_ultraboostuncaged_coreblack_darkgrey_ba979619_ah_8_1.jpg</value>
+                                </attribute>
+                                <attribute name="mobile_model_full_image" basetype="asset" isnull="false">
+                                    <value>http://media.endclothing.com/media/catalog/product/cache/0/model_full_image/400x/9df78eab33525d08d6e5fb8d27136e95/2/1/21-02-2017_adidas_ultraboostuncaged_coreblack_darkgrey_ba979619_ah_8_1.jpg</value>
+                                </attribute>
+                                <link type="detail">
+                                    <name>Detail</name>
+                                    <url-params>fh_view_size=10&amp;preview_seo=false&amp;preview_advanced=true&amp;fh_location=%2f%2fdefaultcategory2%2fen_GB%2fcategories%3c%7bdefaultcategory2_latestproducts5%7d&amp;fh_sort=sale_type%2c-news_from_date%2cbrand%2csleeve_length%2cdepartment%2c-price_gbp%2cname%2c-stock_total&amp;fh_refview=lister&amp;fh_secondid=ba9796&amp;fh_lister_pos=9&amp;fh_modification=</url-params>
+                                </link>
+                            </item>
+                        </items>
+                    </items-section>
+                    <attribute-types>
+                        <attribute-type name="name" basetype="text">name</attribute-type>
+                        <attribute-type name="sku" basetype="text">sku</attribute-type>
+                        <attribute-type name="news_from_date" basetype="text">news_from_date</attribute-type>
+                        <attribute-type name="price_gbp" basetype="float">price_gbp</attribute-type>
+                        <attribute-type name="sale_type" basetype="text">sale_type</attribute-type>
+                        <attribute-type name="total_stock" basetype="int">total_stock</attribute-type>
+                        <attribute-type name="colour" basetype="list">Colour</attribute-type>
+                        <attribute-type name="stock_ratio" basetype="float">stock_ratio</attribute-type>
+                        <attribute-type name="denim_wash" basetype="list">Denim wash</attribute-type>
+                        <attribute-type name="legwear_fit" basetype="set">Fit</attribute-type>
+                        <attribute-type name="sleeve_length" basetype="list">Sleeve length</attribute-type>
+                        <attribute-type name="magento_id" basetype="int">magento_id</attribute-type>
+                        <attribute-type name="@_thumburl" basetype="asset">_thumburl</attribute-type>
+                        <attribute-type name="@small_image" basetype="asset">small_image</attribute-type>
+                        <attribute-type name="stock" basetype="int">stock</attribute-type>
+                        <attribute-type name="stock" basetype="int">stock</attribute-type>
+                        <attribute-type name="secondid" basetype="text">secondid</attribute-type>
+                        <attribute-type name="@url_key" basetype="asset">url_key</attribute-type>
+                        <attribute-type name="actual_colour" basetype="text">actual_colour</attribute-type>
+                        <attribute-type name="department" basetype="list">Department</attribute-type>
+                        <attribute-type name="special_price_gbp" basetype="float">special_price_gbp</attribute-type>
+                        <attribute-type name="special_from_date" basetype="text">special_from_date</attribute-type>
+                        <attribute-type name="special_to_date" basetype="text">special_to_date</attribute-type>
+                        <attribute-type name="@model_crop_image" basetype="asset">model_crop_image</attribute-type>
+                        <attribute-type name="@model_full_image" basetype="asset">model_full_image</attribute-type>
+                        <attribute-type name="launches_product_status" basetype="int">launches_product_status</attribute-type>
+                        <attribute-type name="launches_product_id" basetype="int">launches_product_id</attribute-type>
+                        <attribute-type name="launches_release_date" basetype="text">launches_release_date</attribute-type>
+                        <attribute-type name="$rc_price_stock" basetype="float">rc_price_stock</attribute-type>
+                        <attribute-type name="@mobile_large_image" basetype="asset">mobile_large_image</attribute-type>
+                        <attribute-type name="@mobile_small_image" basetype="asset">mobile_small_image</attribute-type>
+                        <attribute-type name="@mobile_model_crop_image" basetype="asset">mobile_model_crop_image</attribute-type>
+                        <attribute-type name="@mobile_model_full_image" basetype="asset">mobile_model_full_image</attribute-type>
+                    </attribute-types>
+                </universe>
+                <universe name="defaultcategory2related">
+                    <link>
+                        <name>defaultcategory2related</name>
+                        <url-params>fh_location=%2f%2fdefaultcategory2related%2fen_GB</url-params>
+                    </link>
+                </universe>
+            </universes>
+            <footer>
+                <process-time unit="s">0.122</process-time>
+                <log-args>id=unknown&amp;proctime=0.122&amp;view=lister&amp;paths=f448e4f1-adeb-49f6-b27a-00b5d334c82d,cbab6de7-11eb-421b-9010-085301a73093,8ad00f80-976d-4508-9605-40cc846aaaf4,ab1c659a-8a7f-4181-99a4-2eb2537a86fc,d3be1163-c93c-4bfc-abca-264904316222,0ce8fa27-bdd8-4394-8745-85eea20876b1,206093f9-6376-490b-a39b-0adb9709e3df,f4757cd6-7941-4a89-acb1-40503669096e,44a5e7a3-3a7f-4ab8-9225-d834d2267530,5251c689-61ea-45ec-84f6-b3b050a2b3df,90730fcb-3038-49fc-9209-e24dc2300a8e,a7237f95-6c8e-45fc-978b-eadfbea511a0,0094ec9a-da8b-4eb6-afc7-9421f1cbb26f&amp;facets=total_stock,season,restock,number_of_days,sale_type,stock_total,categories,gender,brand,department,size_label,footwear_size_label,colour&amp;items=cozaa_h12119_aab,cozaa_h12119_iab,cobpx_h12291_iaa,az8128,az8129,bb1242,bb1241,ba9616,ba9617,ba9796&amp;themes=&amp;location=%2f%2fdefaultcategory2%2fen_GB%2fcategories%3c%7bdefaultcategory2_latestproducts5%7d&amp;listerstartindex=0&amp;listernrofitems=11570&amp;viewsize=10&amp;sortby=sale_type,-news_from_date,brand,sleeve_length,department,-price_gbp,name,-stock_total&amp;searchpasses=&amp;itemsinselection=11570&amp;usertype=unknown&amp;qid=22&amp;refview=lister&amp;reffacet=categories&amp;refpath=206093f9-6376-490b-a39b-0adb9709e3df&amp;querystring=fh_view_size%3D10%26preview_seo%3Dfalse%26preview_advanced%3Dtrue</log-args>
+            </footer>
+        </page>
+    </soapenv:Body>
+</soapenv:Envelope>
